@@ -10,7 +10,7 @@ The objective of this program is to understand how different indexes work in ret
 
 A Boolean Retrieval Model consisting of Inverted Index And Positional Index
 
-![Finished Website](https://hnet.com/video-to-gif/viewimage/20220316-07-sREvKbCIVmAVkbzS-p4CoTb-HNET)
+![Finished Website](https://github.com/mustafabawany/Boolean-Retrieval-Model/blob/main/Project_Demo.gif)
 
 
 ## Tools Used
