@@ -20,7 +20,7 @@ A Boolean Retrieval Model consisting of Inverted Index And Positional Index
 - NLTK
 - HTML
 - CSS
-- Boostrap
+- Bootstrap
 
 ## Software Used
 - Visual Studio Code
