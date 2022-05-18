@@ -1,5 +1,5 @@
 
-# Boolean Retrieval Model & Positonal Index
+# Boolean Retrieval Model
 
 ## Goal
 
