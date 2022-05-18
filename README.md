@@ -1,5 +1,5 @@
 
-# Doodle | Boolean Retrieval Model
+# Boolean Retrieval Model & Positonal Index
 
 ## Goal
 
